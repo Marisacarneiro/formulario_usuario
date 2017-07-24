@@ -1,0 +1,25 @@
+* {
+   margin: 5px;
+   padding: 5px;
+}
+
+body {
+	background-color:#FF8C00;
+	
+}
+
+	
+
+.enter {
+	color: #000000;
+	background-color:#FFD700;
+	width: 100px;
+	height: 25px;
+	border-radius: 10px;
+
+}
+
+#checkbox {
+	width:100px;
+	
+}
